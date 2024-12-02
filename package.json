@@ -1,0 +1,14 @@
+{
+  "name": "advent-of-code-2024",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": "tsc -w"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.7.2"
+  }
+}
